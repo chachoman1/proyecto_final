@@ -1,4 +1,4 @@
-<?php session_start();
+<?php 
     class Dashboard{
         public function __construct(){}
         public function main(){            
