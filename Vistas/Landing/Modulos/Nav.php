@@ -17,8 +17,8 @@
                     <a class="nav-link dropdown-toggle" href="#!" id="languageDropdown" data-toggle="dropdown"
                         aria-haspopup="true" aria-expanded="false">ENG</a>
                     <div class="dropdown-menu" aria-labelledby="languageDropdown">
-                        <a class="dropdown-item" href="#!">ARB</a>
-                        <a class="dropdown-item" href="#!">FRE</a>
+                        <a class="dropdown-item" href="#!"></a>
+                        <a class="dropdown-item" href="#!"></a>
                     </div>
                 </li>
                 <li class="nav-item">
@@ -39,7 +39,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="?c=Landing&a=servicios">Servicios</a>
                     </li>
-                    <li class="nav-item dropdown">
+                    <!--<li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#!" id="pagesDropdown" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">Categorias</a>
                         <div class="dropdown-menu" aria-labelledby="pagesDropdown">
@@ -47,8 +47,13 @@
                             <a class="dropdown-item" href="contact.html">Contact</a>
                             <a class="dropdown-item" href="404.html">404</a>
                         </div>
-                    </li>
-                    <li class="nav-item dropdown">
+                    </li>-->
+
+                    <a class="nav-link dropdown-toggle" href="#!" id="pagesDropdown" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">Categorias</a>
+
+                    
+                    <!--<<li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#!" id="portfolioDropdown" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">Portafolio</a>
                         <div class="dropdown-menu" aria-labelledby="portfolioDropdown">
@@ -56,7 +61,10 @@
                             <a class="dropdown-item" href="portfolio.html">Portfolio grid</a>
                             <a class="dropdown-item" href="portfolio-masonry.html">Portfolio masonry</a>
                         </div>
-                    </li>
+                    </li>-->
+                    <a class="nav-link dropdown-toggle" href="#!" id="portfolioDropdown" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">Portafolio</a>
+                    
                     <!--<li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#!" id="blogDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contacto</a>
                         <div class="dropdown-menu" aria-labelledby="blogDropdown">

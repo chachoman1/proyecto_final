@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <img src="Assets/Plantilla/urbanui/assets/images/Logo_1.svg" alt="oleez" class="footer-logo">
-                        <p class="footer-intro-text">Don't be shy, get in touch with us and create the world again!</p>
+                        <p class="footer-intro-text">¡No seas tímido, póngase en contacto con nosotros y vuelva a crear el mundo!</p>
                         <nav class="footer-social-links">
                             <a href="#!">Fb</a>
                             <a href="#!">Tw</a>
@@ -16,28 +16,28 @@
                     <div class="col-md-6">
                         <div class="row">
                             <div class="col-md-6 footer-widget-text">
-                                <h6 class="widget-title">PHONE</h6>
-                                <p class="widget-content">+80 (0)5 12 34 95 89</p>
+                                <h6 class="widget-title">telefono</h6>
+                                <p class="widget-content">+57 3127619324</p>
                             </div>
                             <div class="col-md-6 footer-widget-text">
-                                <h6 class="widget-title">ENQUIRUES</h6>
-                                <p class="widget-content">info@oleez.site</p>
+                                <h6 class="widget-title">contactanos</h6>
+                                <p class="widget-content">davinci@gmail.oom</p>
                             </div>
                             <div class="col-md-6 footer-widget-text">
-                                <h6 class="widget-title">ADDRESS</h6>
-                                <p class="widget-content">33 rue Burdeau 69089 <br> Paris France</p>
+                                <h6 class="widget-title">direccion</h6>
+                                <p class="widget-content">barrio 12 de octubre  <br> bogota Colombia</p>
                             </div>
                             <div class="col-md-6 footer-widget-text">
-                                <h6 class="widget-title">WORK HOURS</h6>
-                                <p class="widget-content">Weekdays: 09:00 - 18:00 <br> Weekends: 11:00 - 17:00</p>
+                                <h6 class="widget-title">horario de atencion</h6>
+                                <p class="widget-content">entre semana: 09:00 - 18:00 <br> fines de semanas: 11:00 - 17:00</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="footer-text">
-                <p class="mb-md-0">©  2020, oleez Theme. Made with passion by <a href="https://www.bootstrapdash.com" target="_blank" rel="noopener noreferrer" class="text-reset">BootstrapDash</a>.</p>
-                <p class="mb-0">All right reserved.</p>
+                <p class="mb-md-0">©  2023, davinci desings. mejorando para ti  <a href="--" target="_blank" rel="noopener noreferrer" class="text-reset"></a>.</p>
+                <p class="mb-0">todos los derechos reservados.</p>
             </div>
         </div>
     </footer>

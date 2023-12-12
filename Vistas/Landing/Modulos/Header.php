@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Oleez :: Home</title>
+    <title>Davinci :: Home</title>
     <link rel="stylesheet" href="Assets/Plantilla/urbanui/assets/vendors/animate.css/animate.min.css">
     <link rel="stylesheet" href="Assets/Plantilla/urbanui/assets/vendors/slick-carousel/slick.css">
     <link rel="stylesheet" href="Assets/Plantilla/urbanui/assets/vendors/slick-carousel/slick-theme.css">
@@ -15,4 +15,4 @@
 </head>
 
 <body>
-    <div class="oleez-loader"></div>
+    <div class="davinci"></div>
