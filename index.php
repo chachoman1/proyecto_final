@@ -33,4 +33,6 @@ if (file_exists($dirControllers)) {
 } else {
     header('Location: ' . BASE_URL . 'errors');
 }
+
+# hpta que rico
 ?>
