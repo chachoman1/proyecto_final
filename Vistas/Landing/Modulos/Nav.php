@@ -1,6 +1,6 @@
     <header class="oleez-header">
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand" href="index.html"><img src="Assets/Plantilla/urbanui/assets/images/Logo_2.svg" alt="Oleez"></a>
+            <a class="navbar-brand" href="index.html"><img src="Assets/Plantilla/urbanui/assets/images/android-icon-36x36.png" alt="Oleez"></a>
             <ul class="nav nav-actions d-lg-none ml-auto">
                 <li class="nav-item">
                     <a class="nav-link" href="#!" data-toggle="searchModal">

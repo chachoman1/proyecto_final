@@ -4,7 +4,7 @@
             <div class="footer-content">
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="Assets/Plantilla/urbanui/assets/images/Logo_1.svg" alt="oleez" class="footer-logo">
+                        <img src="Assets/Plantilla/urbanui/assets/images/android-icon-36x36.png" alt="oleez" class="footer-logo">
                         <p class="footer-intro-text">¡No seas tímido, póngase en contacto con nosotros y vuelva a crear el mundo!</p>
                         <nav class="footer-social-links">
                             <a href="#!">Fb</a>
