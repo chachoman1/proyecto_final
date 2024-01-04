@@ -40,13 +40,23 @@
 
             require_once "Vistas/Landing/Modulos/Footer.php";
         }
-        public function categoriaso()
+        public function productos()
         {
             require_once "Vistas/Landing/Modulos/Header.php";
             require_once "Vistas/Landing/Modulos/Nav.php";
 
             #ruta de pagina + contenido
-            require_once "Vistas/Landing/Paginas/categorias.php";
+            require_once "Vistas/Landing/Paginas/productos.php";
+
+            require_once "Vistas/Landing/Modulos/Footer.php";
+        }
+        public function portafolio()
+        {
+            require_once "Vistas/Landing/Modulos/Header.php";
+            require_once "Vistas/Landing/Modulos/Nav.php";
+
+            #ruta de pagina + contenido
+            require_once "Vistas/Landing/Paginas/portafolio.php";
 
             require_once "Vistas/Landing/Modulos/Footer.php";
         }

@@ -50,7 +50,7 @@
                     </li>-->
 
                     <a class="nav-link dropdown-toggle" href="#!" id="pagesDropdown" data-toggle="dropdown"
-                            aria-haspopup="true" aria-expanded="false">Categorias</a>
+                            aria-haspopup="true" aria-expanded="false">productos</a>
 
                     
                     <!--<<li class="nav-item dropdown">
