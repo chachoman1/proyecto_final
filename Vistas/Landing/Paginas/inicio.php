@@ -47,7 +47,7 @@
             <div class="container">
                 <div class="oleez-landing-section-content">
                     <div class="oleez-landing-section-verticals wow fadeIn">
-                        <span class="number">01</span> <img src="Assets/Plantilla/urbanui/assets/images/android-icon-36x36.png" alt="ollez" height="12px">
+                        <span class="number">01</span> <img src="Assets/Plantilla/urbanui/assets/images/logo.png" alt="ollez" height="12px">
                     </div>
                     <div class="row landing-about-content wow fadeInUp">
                         <div class="col-md-6">
@@ -81,7 +81,7 @@
             <div class="container">
                 <div class="oleez-landing-section-content">
                     <div class="oleez-landing-section-verticals wow fadeIn">
-                        <span class="number">02</span> <img src="Assets/Plantilla/urbanui/assets/images/android-icon-36x36.png" alt="oleez" height="12px">
+                        <span class="number">02</span> <img src="Assets/Plantilla/urbanui/assets/images/logo.png" alt="oleez" height="12px">
                     </div>
                     <h2 class="section-title wow fadeInUp">nuestros productos <a href="#!" class="all-projects-link"></a></h2>
                     <div class="landing-projects-carousel wow fadeIn">
@@ -122,7 +122,7 @@
             <div class="container">
                 <div class="oleez-landing-section-content">
                     <div class="oleez-landing-section-verticals wow fadeIn">
-                        <span class="number">03</span> <img src="Assets/Plantilla/urbanui/assets/images/android-icon-36x36.png" alt="ollez" height="12px">
+                        <span class="number">03</span> <img src="Assets/Plantilla/urbanui/assets/images/logo.png" alt="ollez" height="12px">
                     </div>
                     <div class="row landing-team-content wow fadeInUp">
                         <div class="col-md-6">
@@ -171,7 +171,7 @@
             <div class="container">
                 <div class="oleez-landing-section-content">
                     <div class="oleez-landing-section-verticals wow fadeIn">
-                        <span class="number">04</span> <img src="Assets/Plantilla/urbanui/assets/images/android-icon-36x36.png" alt="ollez" height="12px">
+                        <span class="number">04</span> <img src="Assets/Plantilla/urbanui/assets/images/logo.png" alt="ollez" height="12px">
                     </div>
                     <h2 class="section-title mb-1 wow fadeInUp">Socios y Clientes</h2>
                     <p class="client-section-subtitle">Estamos constantemente perfeccionando nuestro producto. Agregando nuevas características. Trabajando para ayudar a que su negocio crezca..</p>
@@ -214,7 +214,7 @@
             <div class="container">
                 <div class="oleez-landing-section-content">
                     <div class="oleez-landing-section-verticals wow fadeIn">
-                        <span class="number">05</span> <img src="Assets/Plantilla/urbanui/assets/images/android-icon-36x36.png" alt="ollez" height="12px">
+                        <span class="number">05</span> <img src="Assets/Plantilla/urbanui/assets/images/logo.png" alt="ollez" height="12px">
                     </div>
                     <h2 class="section-title wow fadeInUp">Noticias e historias recientes.</h2>
                     <p class="news-section-subtitle wow fadeInUp">Compate tu experiencia con los demas.</p>
@@ -281,7 +281,7 @@
             <div class="container">
                 <div class="oleez-landing-section-content">
                     <div class="oleez-landing-section-verticals wow fadeIn">
-                        <span class="number">05</span> <img src="Assets/Plantilla/urbanui/assets/images/android-icon-36x36.png" alt="ollez" height="12px">
+                        <span class="number">06</span> <img src="Assets/Plantilla/urbanui/assets/images/logo.png" alt="davinci" height="12px">
                     </div>
                     <div class="d-md-flex justify-content-between wow fadeInUp">
                         <div class="testimonial-section-content">

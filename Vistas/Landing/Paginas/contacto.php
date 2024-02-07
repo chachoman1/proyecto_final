@@ -1,6 +1,6 @@
     <main class="contact-page">
         <div class="container">
-            <h1 class="oleez-page-title wow fadeInUp">Contactanos</h1>
+            <h1 class="oleez-page-title wow fadeInUp">ingresar</h1>
             <div class="row">
                 <div class="col-md-6 mb-5 mb-md-0 pr-lg-5 wow fadeInLeft">
                     <div class="embed-responsive embed-responsive-1by1">
