@@ -34,7 +34,7 @@
             <div class="collapse navbar-collapse" id="oleezMainNav">
                 <ul class="navbar-nav mx-auto mt-2 mt-lg-0">
                     <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Inicio <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="?c=Landing&a=inicio">Inicio <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="?c=Landing&a=servicios">Servicios</a>
@@ -49,30 +49,12 @@
                         </div>
                     </li>-->
 
-                    <a class="nav-link dropdown-toggle" href="#!" id="pagesDropdown" data-toggle="dropdown"
-                            aria-haspopup="true" aria-expanded="false">productos</a>
-
-                    
-                    <!--<<li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#!" id="portfolioDropdown" data-toggle="dropdown"
-                            aria-haspopup="true" aria-expanded="false">Portafolio</a>
-                        <div class="dropdown-menu" aria-labelledby="portfolioDropdown">
-                            <a class="dropdown-item" href="portfolio-list.html">Portfolio list</a>
-                            <a class="dropdown-item" href="portfolio.html">Portfolio grid</a>
-                            <a class="dropdown-item" href="portfolio-masonry.html">Portfolio masonry</a>
-                        </div>
-                    </li>-->
-                    <a class="nav-link dropdown-toggle" href="#!" id="portfolioDropdown" data-toggle="dropdown"
-                            aria-haspopup="true" aria-expanded="false">Portafolio</a>
-                    
-                    <!--<li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#!" id="blogDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contacto</a>
-                        <div class="dropdown-menu" aria-labelledby="blogDropdown">
-                            <a class="dropdown-item" href="blog-standard.html">Blog Standard</a>
-                            <a class="dropdown-item" href="blog-grid.html">Blog grid</a>
-                            <a class="dropdown-item" href="blog-single.html">Blog Post</a>
-                        </div>
-                    </li>-->
+                    <li class="nav-item">
+                        <a class="nav-link" href="?c=Landing&a=productos">productos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="?c=Landing&a=Portafolio">Portafolio</a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="?c=Landing&a=contacto">Contacto</a>
                     </li>

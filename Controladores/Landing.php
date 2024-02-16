@@ -2,11 +2,7 @@
     class Landing{
         public function __construct(){}
 
-
-       
-
-
-        public function main()
+        public function inicio  ()
         {
             require_once "Vistas/Landing/Modulos/Header.php";
             require_once "Vistas/Landing/Modulos/Nav.php";
