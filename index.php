@@ -5,6 +5,7 @@
         $controller = new Landing;
         $controller->inicio();
     } else {
+        // Esto es
         $controller = $_REQUEST['c'];
         require_once "Controladores/" . $controller . ".php";
         $controller = new $controller;
