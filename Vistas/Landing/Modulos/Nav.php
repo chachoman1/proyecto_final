@@ -37,7 +37,7 @@
                         <a class="nav-link" href="?c=Landing&a=inicio">Inicio <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="?c=Landing&a=servicios">Servicios</a>
+                        <a class="nav-link" href="?c=Landing&a=servicios">registrarse</a>
                     </li>
                     <!--<li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#!" id="pagesDropdown" data-toggle="dropdown"
@@ -70,16 +70,9 @@
                             <span class="cart-item-count">0</span>
                             <img src="Assets/Plantilla/urbanui/assets/images/shopping-cart.svg" alt="cart">
                         </a>
-                    </li>
+                    </li>                   
 
-                    <li class="nav-item nav-item-cart">
-                        <a class="nav-link nav-link-btn" href="#!">
-                            
-                            <img src="Assets/Plantilla/urbanui/assets/images/logeate.png" alt="cart">
-                        </a>
-                    </li>
-
-                    <!--
+                    
                   
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle " href="#!" id="languageDropdown" data-toggle="dropdown"
@@ -88,7 +81,7 @@
                             <a class="dropdown-item" href="#!">ARB</a>
                             <a class="dropdown-item" href="#!">FRE</a>
                         </div>
-                    </li> -->
+                    </li> 
 
 
                     <li class="nav-item ml-5">

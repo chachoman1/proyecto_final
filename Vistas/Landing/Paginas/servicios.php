@@ -1,1 +1,0 @@
-<h1 class="text-center">pagina de servicios</h1>

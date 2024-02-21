@@ -28,13 +28,13 @@
 
         public function servicios()
         {
-            require_once "Vistas/Landing/Modulos/Header.php";
-            require_once "Vistas/Landing/Modulos/Nav.php";
+          #  require_once "Vistas/Landing/Modulos/Header.php";
+          #  require_once "Vistas/Landing/Modulos/Nav.php";
             
             #ruta de pagina + contenido
-            require_once "Vistas/Landing/Paginas/servicios.php";
+            require_once "Vistas/Landing/Paginas/registro.php";
 
-            require_once "Vistas/Landing/Modulos/Footer.php";
+           #require_once "Vistas/Landing/Modulos/Footer.php";
         }
         public function productos()
         {
