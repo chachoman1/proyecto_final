@@ -48,7 +48,7 @@
 </head>
 <body>
 
-    <form action="procesar_registro.php" method="post">
+    <form id="registroForm" action="procesar_registro.php" method="post">
         <h2>Registro</h2>
 
         <label for="nombre">Nombre:</label>
@@ -62,6 +62,34 @@
 
         <button type="submit">Registrar</button>
     </form>
+
+    <script>
+        document.getElementById("registroForm").addEventListener("submit", function(event) {
+            event.preventDefault(); // Evitar que el formulario se envíe normalmente
+
+            // Obtener los datos del formulario
+            var formData = new FormData(event.target);
+
+            // Enviar los datos al servidor con una petición asíncrona (puedes usar AJAX)
+            fetch(event.target.action, {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Mostrar alerta según la respuesta del servidor
+                if (data.acceso === "concedido") {
+                    alert("Registro exitoso. Acceso concedido.");
+                } else {
+                    alert("Registro fallido. Acceso denegado.");
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert("Hubo un error en el servidor. Inténtalo de nuevo más tarde.");
+            });
+        });
+    </script>
 
 </body>
 </html>
