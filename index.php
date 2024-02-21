@@ -1,14 +1,14 @@
 <?php
     #require_once "models/DataBase.php";
-    if (!isset($_REQUEST['c'])) {
+    if (!isset($_GET['c'])) {
         require_once "Controladores/Landing.php";
         $controller = new Landing;
         $controller->inicio();
     } else {
         // Esto es
-        $controller = $_REQUEST['c'];
-        require_once "Controladores/" . $controller . ".php";
-        $controller = new $controller;
+        $controllerName = $_REQUEST['c'];
+        require_once "Controladores/" . $controllerName . ".php";
+        $controller = new $controllerName; // Utilizar el nombre del controlador
         $action = isset($_REQUEST['a']) ? $_REQUEST['a'] : 'inicio';
         call_user_func(array($controller, $action));
     }

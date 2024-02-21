@@ -15,7 +15,7 @@
                 </li>
                 <li class="nav-item dropdown d-none d-sm-block">
                     <a class="nav-link dropdown-toggle" href="#!" id="languageDropdown" data-toggle="dropdown"
-                        aria-haspopup="true" aria-expanded="false">ENG</a>
+                        aria-haspopup="true" aria-expanded="false">español</a>
                     <div class="dropdown-menu" aria-labelledby="languageDropdown">
                         <a class="dropdown-item" href="#!"></a>
                         <a class="dropdown-item" href="#!"></a>
@@ -71,14 +71,26 @@
                             <img src="Assets/Plantilla/urbanui/assets/images/shopping-cart.svg" alt="cart">
                         </a>
                     </li>
+
+                    <li class="nav-item nav-item-cart">
+                        <a class="nav-link nav-link-btn" href="#!">
+                            
+                            <img src="Assets/Plantilla/urbanui/assets/images/logeate.png" alt="cart">
+                        </a>
+                    </li>
+
+                    <!--
+                  
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle " href="#!" id="languageDropdown" data-toggle="dropdown"
-                            aria-haspopup="true" aria-expanded="false">ENG</a>
+                            aria-haspopup="true" aria-expanded="false">esp</a>
                         <div class="dropdown-menu" aria-labelledby="languageDropdown">
                             <a class="dropdown-item" href="#!">ARB</a>
                             <a class="dropdown-item" href="#!">FRE</a>
                         </div>
-                    </li>
+                    </li> -->
+
+
                     <li class="nav-item ml-5">
                         <a class="nav-link pr-0 nav-link-btn" href="#!" data-toggle="offCanvasMenu">
                             <img src="Assets/Plantilla/urbanui/assets/images/social icon@2x.svg" alt="social-nav-toggle">
