@@ -53,11 +53,12 @@
                         <a class="nav-link" href="?c=Landing&a=productos">productos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="?c=Landing&a=Portafolio">Portafolio</a>
+                        <a class="nav-link" href="?c=Landing&a=categorias">categorias</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="?c=Landing&a=contacto">Contacto</a>
                     </li>
+                    
                 </ul>
                 <ul class="navbar-nav d-none d-lg-flex">
                     <li class="nav-item">

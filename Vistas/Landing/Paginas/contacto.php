@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-6 mb-5 mb-md-0 pr-lg-5 wow fadeInLeft">
                     <div class="embed-responsive embed-responsive-1by1">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10759.495900110083!2d-122.34410726082857!3d47.609140133437705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54906ab679235d7d%3A0xae763a82ab1fed6c!2sCentral%20Business%20District%2C%20Seattle%2C%20WA%2C%20USA!5e0!3m2!1sen!2sin!4v1587035152547!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d248.53533503161145!2d-74.07328616038983!3d4.671300441922135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sco!4v1709338355243!5m2!1ses-419!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
                 <div class="col-md-6 pl-lg-5 wow fadeInRight">
