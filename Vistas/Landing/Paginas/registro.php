@@ -48,8 +48,8 @@
 </head>
 <body>
 
-    <form id="registroForm" action="procesar_registro.php" method="post">
-        <h2>Registro</h2>
+    <form id="registroForm" action="?c=Login&a=login" method="post">
+        <h2>ingresar</h2>
 
         <label for="nombre">Nombre:</label>
         <input type="text" id="nombre" name="nombre" required>
@@ -60,10 +60,13 @@
         <label for="password">Contraseña:</label>
         <input type="password" id="password" name="password" required>
 
-        <button type="submit">Registrar</button>
+        <button type="submit">ingresar</button>
     </form>
+    <a href="">
+        registrarse
+    </a>
 
-    <script>
+    <!-- <script>
         document.getElementById("registroForm").addEventListener("submit", function(event) {
             event.preventDefault(); // Evitar que el formulario se envíe normalmente
 
@@ -89,7 +92,7 @@
                 alert("Hubo un error en el servidor. Inténtalo de nuevo más tarde.");
             });
         });
-    </script>
+    </script> -->
 
 </body>
 </html>

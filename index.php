@@ -1,5 +1,5 @@
 <?php
-    #require_once "models/DataBase.php";
+    require_once "modelos/database.php";
     if (!isset($_GET['c'])) {
         require_once "Controladores/Landing.php";
         $controller = new Landing;

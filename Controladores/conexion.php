@@ -2,10 +2,11 @@
 $servidor ='localhost';
 $usuario ='root';
 $contraseña ='';
+$db= 'telas';
 
 try{
 
-  $conexion = new PDO("mysql:host=$servidor;dbname=proyecto",$usuario,$contraseña);
+  $conexion = new PDO("mysql:host=$servidor;dbname=telas",$usuario,$contraseña);
   $conexion->setAttribute (PDO::ATTR_ERRMODE,  PDO ::ERRMODE_EXCEPTION);
   echo"conexion realizada con exito";
 
