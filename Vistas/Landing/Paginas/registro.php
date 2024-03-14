@@ -61,10 +61,11 @@
         <input type="password" id="password" name="password" required>
 
         <button type="submit">ingresar</button>
+        
     </form>
-    <a href="">
-        registrarse
-    </a>
+    <form action="vistas/Landing/Paginas/usuarios.php"><button type="submit">Registrarse</button></form>
+
+    
 
     <!-- <script>
         document.getElementById("registroForm").addEventListener("submit", function(event) {
