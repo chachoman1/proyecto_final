@@ -48,6 +48,9 @@ class Login
             }
         }
     }
+    public function res(){
+        require_once "vistas/Landing/Paginas/usuarios.php";
+    }
 
     public function registrarUsuario()
 {
@@ -58,7 +61,7 @@ class Login
             $nombre = $_POST['nombre'];
             $apellido = $_POST['apellido'];
             $tipo_usuario = $_POST['tipo_usuario'];
-            $contraseña = $_POST['contraseña'];
+            $pass = $_POST['pass'];
             $direccion = $_POST['direccion'];
             $telefono = $_POST['telefono'];
             $email = $_POST['email_usuario'];
@@ -75,11 +78,11 @@ class Login
                 echo "El correo electrónico ya está registrado. Por favor, elige otro.";
             } else {
                 // Insertar el nuevo usuario en la base de datos
-                $stmt = $this->pdo->prepare("INSERT INTO `usuario` (nombre, apellido, usuario, contraseña, direccion, telefono, email_usuario) VALUES (:nombre, :apellido, :tipo_usuario, :contraseña, :direccion, :telefono, :email);");
+                $stmt = $this->pdo->prepare("INSERT INTO `usuario` (nombre, apellido, usuario, contraseña, direccion, telefono, email_usuario) VALUES (:nombre, :apellido, :tipo_usuario, :pass, :direccion, :telefono, :email);");
                 $stmt->bindParam(':nombre', $nombre);
                 $stmt->bindParam(':apellido', $apellido);
-                $stmt->bindParam(':usuario', $usuario);
-                $stmt->bindParam(':contraseña', $contraseña);
+                $stmt->bindParam(':tipo_usuario', $tipo_usuario);
+                $stmt->bindParam(':pass', $pass);
                 $stmt->bindParam(':direccion', $direccion);
                 $stmt->bindParam(':telefono', $telefono);
                 $stmt->bindParam(':email', $email);

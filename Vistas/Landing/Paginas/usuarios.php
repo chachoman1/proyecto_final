@@ -8,7 +8,7 @@
 <body>
     <h1>Registro de Nuevos Usuarios</h1>
 
-    <form action="?c=login.php" method="post">
+    <form action="?c=Login&a=registrarUsuario" method="post">
         <label for="nombre">Nombre:</label>
         <input type="text" id="nombre" name="nombre" required><br>
 
@@ -16,7 +16,7 @@
         <input type="text" id="apellido" name="apellido" required><br>
 
         <label for="contraseña">Contraseña:</label>
-        <input type="password" id="contraseña" name="contraseña" required><br>
+        <input type="password" id="contraseña" name="pass" required><br>
 
         <label for="direccion">Dirección:</label>
         <input type="text" id="direccion" name="direccion" required><br>
@@ -25,7 +25,7 @@
         <input type="tel" id="telefono" name="telefono" required><br>
 
         <label for="email">Correo Electrónico:</label>
-        <input type="email" id="email" name="email_usuario" required><br>
+        <input type="email" id="email_usuario" name="email_usuario" required><br>
 
         <input type="submit" value="Registrar">
     </form>

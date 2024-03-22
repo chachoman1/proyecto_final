@@ -61,9 +61,9 @@
         <input type="password" id="password" name="password" required>
 
         <button type="submit">ingresar</button>
-        
+        <a href="?c=Login&a=res">Registrarse</a>
     </form>
-    <form action="vistas/Landing/Paginas/usuarios.php"><button type="submit">Registrarse</button></form>
+    
 
     
 
