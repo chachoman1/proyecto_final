@@ -1,8 +1,8 @@
 <main class="shop-page">
     <div class="container">
         <div class="page-header wow fadeInUp">
-            <h2 class="page-title">productos</h2>
-            <p class="result-count">Showing 1–16 of 23 results</p>
+            <h2 class="page-title">Antifluidos</h2>
+            <p class="result-count"></p>
         </div>
         <div class="row">
             <div class="col-md-4 product-card wow fadeInUp">

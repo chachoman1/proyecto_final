@@ -1,7 +1,7 @@
 <main class="shop-page">
     <div class="container">
         <div class="page-header wow fadeInUp">
-            <h2 class="page-title">productos</h2>
+            <h2 class="page-title">Amigables con tus mascotas</h2>
             <p class="result-count">Showing 1–16 of 23 results</p>
         </div>
         <div class="row">

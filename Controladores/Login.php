@@ -5,7 +5,7 @@ class Login
     public function __construct()
     {
         try {
-            $this->pdo = DataBase::conn();
+            $this->pdo = DataBase::connection();
         } catch (Exception $e) {
             die($e->getMessage());
         }

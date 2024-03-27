@@ -147,6 +147,18 @@
             require_once "Vistas/Landing/Modulos/Footer.php";
         }
 
+        public function admin()
+        {
+            require_once "Vistas/Landing/Modulos/Header.php";
+            require_once "Vistas/Landing/Modulos/Nav.php";
+
+            #ruta de pagina + contenido
+            require_once "Vistas/Landing/Paginas/administrador/index.html";
+            require_once "Vistas/Landing/Modulos/Footer.php";
+        }
+
+
+
 
 
 
